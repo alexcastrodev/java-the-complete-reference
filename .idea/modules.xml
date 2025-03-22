@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/extras/Algorithms and data structures/BBST/BBST.iml" filepath="$PROJECT_DIR$/extras/Algorithms and data structures/BBST/BBST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extras/Algorithms and data structures/Sorting/Insertion/Insertion/Insertion.iml" filepath="$PROJECT_DIR$/extras/Algorithms and data structures/Sorting/Insertion/Insertion/Insertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extras/Algorithms and data structures/BBST/InsertionSort.iml" filepath="$PROJECT_DIR$/extras/Algorithms and data structures/BBST/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extras/Algorithms and data structures/Tree rotation/TRotate/Insetion.iml" filepath="$PROJECT_DIR$/extras/Algorithms and data structures/Tree rotation/TRotate/Insetion.iml" />
       <module fileurl="file://$PROJECT_DIR$/extras/Algorithms and data structures/BST/Main/Main.iml" filepath="$PROJECT_DIR$/extras/Algorithms and data structures/BST/Main/Main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extras/Algorithms and data structures/Tree rotation/TRotate/TRotate.iml" filepath="$PROJECT_DIR$/extras/Algorithms and data structures/Tree rotation/TRotate/TRotate.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-24/chapter-24.iml" filepath="$PROJECT_DIR$/chapter-24/chapter-24.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-7/chapter-7.iml" filepath="$PROJECT_DIR$/chapter-7/chapter-7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-the-complete-reference.iml" filepath="$PROJECT_DIR$/.idea/java-the-complete-reference.iml" />

@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter-24/chapter-24.iml" filepath="$PROJECT_DIR$/chapter-24/chapter-24.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter-7/chapter-7.iml" filepath="$PROJECT_DIR$/chapter-7/chapter-7.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-the-complete-reference.iml" filepath="$PROJECT_DIR$/.idea/java-the-complete-reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocp-25/ocp-25.iml" filepath="$PROJECT_DIR$/ocp-25/ocp-25.iml" />
       <module fileurl="file://$PROJECT_DIR$/extras/Leetcode/permutation/permutation/permutation.iml" filepath="$PROJECT_DIR$/extras/Leetcode/permutation/permutation/permutation.iml" />
     </modules>
   </component>

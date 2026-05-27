@@ -10,5 +10,8 @@ public class Chicken {
 
     public static void main(String[] args) {
         Chicken c = new Chicken();
+
+        double annoyingButLegal = 1_00_0.0_0;
+        double ugly = 1_2;
     }
 }

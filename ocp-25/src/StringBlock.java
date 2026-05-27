@@ -25,9 +25,10 @@ public class StringBlock {
         IO.println("========\n");
         // 4 Line
         block = """
-            "doe"\"\"\"
+             "doe"\"\"\"
+            \"deer\"""
             """;
 
-        IO.println(block);
+        IO.println("*" + block + "*");
     }
 }

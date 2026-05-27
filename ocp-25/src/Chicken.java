@@ -3,6 +3,8 @@ public class Chicken {
         { System.out.println("[Constructor] " + name); }
     }
 
+    // int numero1 = 1, numero2, numero3, String numero4; DOES NOT COMPILE
+    int numero1 = 1, numero2, numero3;
     private String name = "Alex";
 
     // This will run first

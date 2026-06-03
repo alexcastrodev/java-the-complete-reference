@@ -11,5 +11,8 @@ public class IntegerOverflow {
 //        short b = (short)mouse * hamster; // IntegerOverflow.java:11: error: incompatible types: possible lossy conversion from int to short
 
 //        short c = 1 + (short)(mouse * hamster); // IntegerOverflow.java:13: error: incompatible types: possible lossy conversion from int to short
+
+        short d = 10 * 3;
+//        short e = 10 * hamster; // IntegerOverflow.java:16: error: incompatible types: possible lossy conversion from int to short
     }
 }

@@ -6,5 +6,10 @@ public class CompoundAssignment {
         // WTF Java ?
         sheep *= goat;
         System.out.println(sheep);
+
+        long wolf = 5;
+        long coyote = (wolf = 3);
+        System.out.println(wolf);
+        System.out.println(coyote);
     }
 }
